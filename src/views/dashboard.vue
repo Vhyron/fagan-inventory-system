@@ -1,0 +1,12 @@
+<script setup lang="ts">
+import AppLayout from '../components/app_layout.vue';
+</script>
+
+<template>
+  <AppLayout>
+    <div class="bg-white rounded-lg shadow p-6">
+      <h1 class="text-2xl font-semibold mb-4">Dashboard</h1>
+      <p>Welcome to Fagan Inventory Management System</p>
+    </div>
+  </AppLayout>
+</template>
